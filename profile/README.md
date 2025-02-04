@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+We're Nour & Mohamed, two undergraduate Computer Engineering students in their senior year at [AURAK](https://aurak.ac.ae/). We partner up for many of our projects both hardware and software-based. On GitHub, we document our codes, processes, development notes, and results. In the times when we're not busy getting minor electric shocks in the lab, we write C, Assembly, and VHDL codes to run CPUS, microcontrollers, microprocessors, and FPGAs, but mostly we're getting minor electric shocks in the lab.  
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🔭 We're currently working on Embedded System Design coursework.  
+💬 Ask us about   
+📫 How to reach us  
