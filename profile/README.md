@@ -2,7 +2,7 @@
   <img src="Banner.gif" style="width: 1000px" />
 </p>
 
-We're Nour & Mohamed, two undergraduate Computer Engineering students in their senior year at [AURAK](https://aurak.ac.ae/). We partner up for many of our projects both hardware and software-based. On GitHub, we document our codes, processes, development notes, and results. In the times when we're not busy getting minor electric shocks in the lab, we write C, Assembly, and VHDL codes to run CPUs, microcontrollers, microprocessors, and FPGAs, but mostly we're getting minor electric shocks in the lab.  
+We're Nour & Mohamed, two undergraduate Computer Engineering students in their senior year at [AURAK](https://aurak.ac.ae/). We partner up for many of our projects both hardware and software-based. On GitHub, we document our codes, procedures, development notes, and results. In the times when we're not busy getting minor electric shocks in the lab, we write C, Assembly, and VHDL codes to run CPUs, microcontrollers, microprocessors, and FPGAs, but mostly we're getting minor electric shocks in the lab.  
 
 🔭 We're currently working on Embedded System Design coursework.  
 💬 Ask us about low-level programming, high-level frustration, and everything in between.  
